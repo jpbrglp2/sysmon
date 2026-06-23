@@ -1,4 +1,4 @@
-# 🚀 CyberDeck Monitor
+# 🚀 SYSMON
 
 Um sistema de monitoramento remoto desenvolvido com **Bash, PHP e JSON**, onde um dispositivo Android executando **Termux** coleta informações do sistema e as envia para um servidor web hospedado em um computador com **XAMPP**.
 
@@ -87,7 +87,7 @@ Atualmente o sistema monitora:
 # 📂 Estrutura do Projeto
 
 ```text
-CyberDeckMonitor/
+SYSMON/
 
 ├── collector.sh
 ├── system.json

@@ -36,7 +36,7 @@ http://$PC_IP/CyberDeckMonitor/receiver.php)
 
 clear
 
-figlet CYBERDECK
+figlet SYSMON
 
 echo
 echo "STATUS............. ONLINE"

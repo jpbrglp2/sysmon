@@ -53,7 +53,7 @@ h1{
 
 <body>
 
-<h1>CYBERDECK MONITOR</h1>
+<h1>SYSMON</h1>
 
 <div class="card">
     <div class="label">STATUS</div>
